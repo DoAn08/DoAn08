@@ -1,6 +1,10 @@
-### Hi there! Welcome to my profile!
+# Truong An Do
 
-- 🔭 I’m currently working on my school's exam.
-- 🌱 I’m currently learning C++.
-- 📫 How to reach me: email / twitter.
-- 😄 Pronouns: he/him.
+[aerwpsd.com](https://www.aerwpsd.com)
+
+- ✉ omitted@aerwpsd.com
+
+## Current projects
+
+- Personal Svelte webpage
+- Visual Art
